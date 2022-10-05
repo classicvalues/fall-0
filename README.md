@@ -27,7 +27,7 @@ Classic Games on Mobile Devices.
 
 # Classic Values Domain Website
 
-[![Deploy static content to Pages](https://github.com/webVert-host/summer-0/actions/workflows/pages.yml/badge.svg?event=public)](https://github.com/webVert-host/summer-0/actions/workflows/pages.yml)
+[![Deploy static content to Pages](https://github.com/webVert-host/summer-0/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/webVert-host/summer-0/actions/workflows/pages.yml)
 
 [![Jekyll site CI](https://github.com/webVert-host/summer-0/actions/workflows/jekyll.yml/badge.svg?branch=master&event=project)](https://github.com/webVert-host/summer-0/actions/workflows/jekyll.yml)
 
