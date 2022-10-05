@@ -29,7 +29,7 @@ Classic Games on Mobile Devices.
 
 [![Deploy static content to Pages](https://github.com/webVert-host/summer-0/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/webVert-host/summer-0/actions/workflows/pages.yml)
 
-[![Jekyll site CI](https://github.com/webVert-host/summer-0/actions/workflows/jekyll.yml/badge.svg?branch=master&event=project)](https://github.com/webVert-host/summer-0/actions/workflows/jekyll.yml)
+[![Jekyll site CI](https://github.com/webVert-host/summer-0/actions/workflows/jekyll.yml/badge.svg)](https://github.com/webVert-host/summer-0/actions/workflows/jekyll.yml)
 
 [![docs badge](https://img.shields.io/badge/docs-reference-blue.svg?style=flat&logo=app)](https://github.com/classicvalues/coreui-website-update/tree/master/docs) 
 
