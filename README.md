@@ -72,7 +72,7 @@ The table below lists all our releases, including our `main` branch which is und
 ### More from Classic Values 
 
 - [Classic Values: Classic Pinball](https://github.com/Unity-Technologies/Unity-Robotics-Hub) 
-- [Classic Values: *](https://unity.com/computer-vision) 
+- [Classic Values: Tensorflow.GameDev](https://github.com/classicvalues/tensorflow/) 
 - [Classic Values: Pachinko](https://unity.com/products/game-simulation) 
 
 
