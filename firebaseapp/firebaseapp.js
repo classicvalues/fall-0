@@ -37,15 +37,6 @@ function defaultInitOptions() {
     const defaultProject = firebase.initializeApp(firebaseConfig);
 
     console.log(defaultProject.name);  // "[DEFAULT]"
-
-    // Option 1: Access Firebase services via the defaultProject variable
-    let defaultStorage = defaultProject.storage();
-    let defaultFirestore = defaultProject.firestore();
-
-    // Option 2: Access Firebase services using shorthand notation
-    defaultStorage = firebase.storage();
-    defaultFirestore = firebase.firestore();
-    // [END app_default_init_options]
 }
 
 function multiProjectInitOptions() {
@@ -67,12 +58,4 @@ function multiProjectInitOptions() {
     console.log(firebase.app().name);  // "[DEFAULT]"
     console.log(otherProject.name);    // "otherProject"
 
-    // Use the shorthand notation to access the default project's Firebase services
-    const defaultStorage = firebase.storage();
-    const defaultFirestore = firebase.firestore();
-
-    // Use the otherProject variable to access the second project's Firebase services
-    const otherStorage = otherProject.storage();
-    const otherFirestore = otherProject.firestore();
-    // [END app_multi_project_init_options]
 }
