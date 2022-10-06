@@ -17,6 +17,8 @@ Classic Games on Mobile Devices.
             ·
         <a href="https://github.com/classicvalues/classicvalues-website-update/issues/new?assignees=&labels=feature&template=feature_request.md&title=">Request feature</a>
             ·
+        <a href="https://github.com/classicvalues/classicvalues-website-update/issues/new/choose">Contact us</a>
+            ·
         <a href="https://classicvalues.dev/./#^%/blog">Blog</a>
 </p>
 
@@ -42,15 +44,14 @@ Classic Games on Mobile Devices.
 
 <!-- Needs work! --> 
 ## Features 
-- 18+ [example Unity environments](docs/Learning-Environment-Examples.md) 
-- Support for multiple environment configurations and training scenarios 
-- Flexible Unity SDK that can be integrated into your game or custom Unity scene 
-- Support for training single-agent, 
+- Support for multiple environment configurations and ml-training scenarios
+- Flexible Bootstrap 5 backbone that can be integrated into your website or custom Unity scene 
+- Support for multi-page HTML5 rendering through Jekyll and GitHub Pages Static
 
 ## Releases & Documentation 
 
 <!-- Version 1 integration with links! Though objective theory and interjection for follow-through application versionings. --> 
-**Our latest, stable release is `Release 19`. Click [here](https://github.com/Unity-Technologies/ml-agents/tree/release_19_docs/docs/Readme.md) to get started with the latest release of ML-Agents.** 
+**Our latest, stable release is `Release v1.0`.** 
 
 <!-- Version 1 integration with links! Though objective theory and interjection for follow-through application versionings. --> 
 The table below lists all our releases, including our `main` branch which is under active development and may be unstable. A few helpful guidelines: 
@@ -93,24 +94,26 @@ For any other questions or feedback, connect directly with the ML-Agents team at
 ## Blog Posts
 We have also published a series of blog posts that are relevant for CoreUI site publishing as well as template development and CoreUI/Google App Engine Integrations:
 
-- (June 6, 2022)
+- (October 6, 2022)
     [Introduction]
-- (June 6, 2022)
-    [Bootstrap?]
-- (June 6, 2022)
-    [Boost/Beast]
-- (June 6, 2022)
-    [App.Engine.Google.Cloud.Platform]
-- (June 6, 2022)
+- (October 7, 2022)
+    [Bootstrap]
+- (October 8, 2022)
+    [Boost/Beast] & [Page.Links]
+- (October 9, 2022)
+    [App.Engine.Google.Cloud.Platform.API]
+- (October 10, 2022)
     [VCPkg]
+- (October 11, 2022 - November 1, 2022)
+    [Pinball] & [Pong] & [Plinko]
 
 <!-- Needs work! --> 
 ## Privacy
-In order to improve the developer experience for Unity ML-Agents Toolkit, we have added in-editor analytics. Please refer to "Information that is passively collected by Unity" in the [ClassicValues Privacy Policy](<!-- !%^% Link here !%^% -->). 
+In order to improve the developer experience for Unity ML-Agents Toolkit, we have added in-editor analytics. Please refer to "Information that is passively collected by Unity" in the [Classic Values Privacy Policy](https://classicvalues.dev/privacy%20policy/). 
 
 <!-- Needs work! Extend Thank you to Shields.io, Boost & Beast Teams, as well as CoreUI themselves, Lukasz, Mark, and "Fat" as well as Juliani, A., Berges, V., Teng, E., Cohen, A., Harper, J., Elion, C., Goy, C., Gao, Y., Henry, H., Mattar, M., Lange, D., et. al. (2020). Unity: A General Platform for Intelligent Agents. _arXiv preprint [arXiv:1809.02627](https://arxiv.org/abs/1809.02627)._ https://github.com/Unity-Technologies/ml-agents.--> 
 ## Thanks 
-CoreUI is designed as the extension of [Bootstrap](https://getbootstrap.com). Special thanks for [Bootstrap team](https://getbootstrap.com/docs/5.0/about/team/) and [Bootstrap's contributors](https://github.com/twbs/bootstrap/graphs/contributors). 
+[CoreUI] (https://coreui.io/) is designed as the extension of [Bootstrap5](https://getbootstrap.com). Special thanks to the [CoreUI Team](https://coreui.io/about/services/) and the [Bootstrap team](https://getbootstrap.com/docs/5.0/about/team/) and both [CoreUI's Contributors](https://github.com/coreui/coreui/graphs/contributors) and [Bootstrap's contributors](https://github.com/twbs/bootstrap/graphs/contributors) for all their hard work and achievments. 
  
 ## Copyright and License
 Copyright 2021 creativeLabs Łukasz Holeczek. Code released under the [MIT License](https://github.com/coreui/coreui/blob/main/LICENSE). Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
