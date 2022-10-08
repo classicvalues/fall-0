@@ -31,21 +31,10 @@
     "Svg",
     "Vector"
   ],
-  "author": {
-    "name": "creativeLabs Łukasz Holeczek",
-    "url": "https://coreui.io",
-    "github": "https://github.com/coreui",
-    "twitter": "https://twitter.com/core_ui"
-  },
+  "author": "creativeLabs Łukasz Holeczek (https://coreui.io)",
   "contributors": [
-    {
-      "name": "Jazzy Innovations sp. z o.o.",
-      "url": "https://jazzy.pro"
-    },
-    {
-      "name": "CoreUI Team",
-      "url": "https://github.com/orgs/coreui/people/"
-    }
+    "Jazzy Innovations sp. z o.o. (https://jazzy.pro)",
+    "CoreUI Team (https://github.com/orgs/coreui/people/)"
   ],
   "license": "MIT",
   "bugs": {
