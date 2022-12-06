@@ -49,8 +49,8 @@
     "postcss-cli": "^7.1.1",
     "rimraf": "^3.0.2",
     "stylelint": "^13.5.0",
+    "stylelint-config-standard": "29.0.0",
     "stylelint-config-recommended-scss": "8.0.0",
-    "stylelint-config-standard": "^20.0.0",
     "stylelint-order": "5.0.0",
     "stylelint-scss": "4.3.0"
   },
