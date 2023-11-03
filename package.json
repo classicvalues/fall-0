@@ -50,7 +50,7 @@
     "rimraf": "3.0.2",
     "stylelint": "14.16.0",
     "stylelint-config-standard": "29.0.0",
-    "stylelint-config-recommended-scss": "13.0.0",
+    "stylelint-config-recommended-scss": "13.1.0",
     "stylelint-order": "5.0.0",
     "stylelint-scss": "4.3.0"
   },
